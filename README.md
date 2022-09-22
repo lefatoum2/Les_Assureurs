@@ -5,4 +5,4 @@
 ### Numéro de Police d'assurance
 ### Porteur risque
 ### Régime Alsace-Moselle 
-![img1](https://images.anaca3.com/wp-content/uploads/2014/09/La-choucroute-fait-elle-grossir--1000x516.jpg)
+![img1](https://i0.wp.com/www.recette-pour-diabetique.com/wp-content/uploads/2021/01/choucroute-legere.jpg?ssl=1)
