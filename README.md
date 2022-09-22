@@ -18,3 +18,14 @@ Assiette sur laquelle se base le régime obligatoire (RO) pour calculer les pres
 - tarif d'autorité (TA) : les actes sont effectués par un professionnel de santé non conventionné avec l'assurance maladie obligatoire (ce qui est peu fréquent). Il s'agit d'un tarif forfaitaire qui sert de base de remboursement.
 ### Régime Alsace-Moselle 
 ![img1](https://images.anaca3.com/wp-content/uploads/2014/09/La-choucroute-fait-elle-grossir--1000x516.jpg)
+### Capital constitutif
+Capital à partir duquel va être versée la rente. Il correspond à l’épargne retraite (pour les produits dédiés à la préparation de la retraite) ou à la valeur de rachat (pour les contrats d’assurance vie, de capitalisation, PEA,…) diminuée des éventuels prélèvements fiscaux et sociaux qui s’appliquent sur la phase épargne du contrat, avant la transformation en rente.
+### Clause bénificiaire
+Clause du contrat d'assurance dans laquelle le souscripteur ou adhérent précise le ou les bénéficiaires en cas de décès.
+
+La désignation ou la modification des bénéficiaires peut s'effectuer à tout moment par modification directe de la clause bénéficiaire (sauf en cas d'acceptation du bénéfice de la clause par le bénéficiaire).
+### Bénéficiaire de la réversion
+La rente viagère avec réversion permet, en cas de décès, de verser une rente à un bénéficiaire désigné au moment de la transformation du capital constitutif de la rente.
+
+### Contrat Collectif de Responsabilité Décennale (CCRD)
+Solution d’assurance globale pour les opérations importantes qui apporte une couverture complémentaire à l’ensemble des intervenants d’une même opération, au-delà de leurs contrats individuels. Ce contrat est généralement souscrit par le maître d’ouvrage pour le compte des différents intervenants.
