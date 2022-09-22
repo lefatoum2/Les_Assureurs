@@ -4,3 +4,5 @@
 ### Code APET
 ### Numéro de Police d'assurance
 ### Porteur risque
+### Régime Alsace-Moselle 
+![img1](https://images.anaca3.com/wp-content/uploads/2014/09/La-choucroute-fait-elle-grossir--1000x516.jpg)
