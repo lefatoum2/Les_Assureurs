@@ -38,3 +38,6 @@ Une marque blanche est un service ou un produit conçu par une entreprise, que d
 Concrètement, il s’agit d’un fichier qui reprend tous les éléments (salaires, primes, cotisations…) mentionnés dans les bulletins de paie de chaque salarié.
 
 La DSN est transmise tous les mois par le gestionnaire de paie (l’entreprise ou l’expert-comptable) sur le site net-entreprise.fr ou, pour les employeurs relevant du régime agricole, sur le site de la Mutualité sociale agricole (MSA). En l’absence de transmission ou en cas d’informations incomplètes, les employeurs s’exposent à des pénalités financières.
+
+### Carte Tiers Payant
+Créé en faveur des assurés à faibles revenus puis généralisé, au 1er janvier 2017, à tous les assurés, le tiers payant est un mécanisme qui permet aux professionnels de santé d’accorder une dispense d’avance des frais de santé aux patients. Ces derniers paient alors uniquement la partie non remboursée par l’Assurance Maladie (le ticket modérateur également appelé reste à charge) de l’acte réalisé. Autrement dit : les patients n’avancent qu’une partie des frais médicaux. C’est ce qu’on appelle le tiers payant partiel.  
