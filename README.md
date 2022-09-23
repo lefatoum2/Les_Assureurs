@@ -32,3 +32,9 @@ Solution d’assurance globale pour les opérations importantes qui apporte une 
 
 ### La Marque Blanche
 Une marque blanche est un service ou un produit conçu par une entreprise, que d'autres entreprises reprennent à leur compte et commercialisent sous leur propre marque. Il s'agit donc d'un mécanisme commercial de mise à disposition d'outils ou de produits, sans citer la marque ni l'origine de l'information transmise.
+
+### Déclaration Sociale Nominative(DSN)
+
+Concrètement, il s’agit d’un fichier qui reprend tous les éléments (salaires, primes, cotisations…) mentionnés dans les bulletins de paie de chaque salarié.
+
+La DSN est transmise tous les mois par le gestionnaire de paie (l’entreprise ou l’expert-comptable) sur le site net-entreprise.fr ou, pour les employeurs relevant du régime agricole, sur le site de la Mutualité sociale agricole (MSA). En l’absence de transmission ou en cas d’informations incomplètes, les employeurs s’exposent à des pénalités financières.
