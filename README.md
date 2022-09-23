@@ -18,6 +18,12 @@ Assiette sur laquelle se base le régime obligatoire (RO) pour calculer les pres
 - tarif d'autorité (TA) : les actes sont effectués par un professionnel de santé non conventionné avec l'assurance maladie obligatoire (ce qui est peu fréquent). Il s'agit d'un tarif forfaitaire qui sert de base de remboursement.
 ### Régime Alsace-Moselle 
 ![img1](https://images.anaca3.com/wp-content/uploads/2014/09/La-choucroute-fait-elle-grossir--1000x516.jpg)
+
+L’Alsace-Moselle bénéficie d’un régime particulier de sécurité sociale. En effet, les départements regroupés sous le nom de l’Alsace-Moselle ont conservé le régime d’assurance maladie obligatoire mis en place par l’Allemagne pendant la guerre, période durant laquelle, ce territoire était annexé à l’Allemagne.
+
+Le niveau de remboursement pour une consultation chez un généraliste est de 90% du tarif de convention au lieu de 70% pour le régime général. Les médicaments à vignette bleue, traditionnellement remboursés à hauteur de 35%, sont ici remboursés à hauteur de 80%.
+
+
 ### Capital constitutif
 Capital à partir duquel va être versée la rente. Il correspond à l’épargne retraite (pour les produits dédiés à la préparation de la retraite) ou à la valeur de rachat (pour les contrats d’assurance vie, de capitalisation, PEA,…) diminuée des éventuels prélèvements fiscaux et sociaux qui s’appliquent sur la phase épargne du contrat, avant la transformation en rente.
 ### Clause bénificiaire
