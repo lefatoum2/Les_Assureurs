@@ -1,4 +1,4 @@
-# Les_Assureurs
+# Les Assureurs
 ![img1](https://media.gqmagazine.fr/photos/613b2b1750dd2d5cc5ab3281/master/pass/50555803)
 
 ### Code APET
@@ -29,3 +29,6 @@ La rente viagère avec réversion permet, en cas de décès, de verser une rente
 
 ### Contrat Collectif de Responsabilité Décennale (CCRD)
 Solution d’assurance globale pour les opérations importantes qui apporte une couverture complémentaire à l’ensemble des intervenants d’une même opération, au-delà de leurs contrats individuels. Ce contrat est généralement souscrit par le maître d’ouvrage pour le compte des différents intervenants.
+
+### La Marque Blanche
+Une marque blanche est un service ou un produit conçu par une entreprise, que d'autres entreprises reprennent à leur compte et commercialisent sous leur propre marque. Il s'agit donc d'un mécanisme commercial de mise à disposition d'outils ou de produits, sans citer la marque ni l'origine de l'information transmise.
