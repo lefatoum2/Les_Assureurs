@@ -44,4 +44,8 @@ Créé en faveur des assurés à faibles revenus puis généralisé, au 1er janv
 
 ### Tiers
 
+### Le dépassement d’honoraires
+
+Pour les professionnels de santé, consiste à appliquer des tarifs supérieurs aux tarifs conventionnés, établis par la Sécurité sociale et servant de référence pour la tarification des actes médicaux.
+
 
