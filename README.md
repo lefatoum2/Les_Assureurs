@@ -23,6 +23,8 @@ L’Alsace-Moselle bénéficie d’un régime particulier de sécurité sociale.
 
 Le niveau de remboursement pour une consultation chez un généraliste est de 90% du tarif de convention au lieu de 70% pour le régime général. Les médicaments à vignette bleue, traditionnellement remboursés à hauteur de 35%, sont ici remboursés à hauteur de 80%.
 
+### Régime Obligatoire
+
 
 ### Capital constitutif
 Capital à partir duquel va être versée la rente. Il correspond à l’épargne retraite (pour les produits dédiés à la préparation de la retraite) ou à la valeur de rachat (pour les contrats d’assurance vie, de capitalisation, PEA,…) diminuée des éventuels prélèvements fiscaux et sociaux qui s’appliquent sur la phase épargne du contrat, avant la transformation en rente.
