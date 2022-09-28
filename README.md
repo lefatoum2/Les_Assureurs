@@ -1,5 +1,5 @@
 # Les Assureurs
-![img1](https://media.gqmagazine.fr/photos/613b2b1750dd2d5cc5ab3281/master/pass/50555803)
+![img1](https://aws.vdkimg.com/film/1/3/1/6/131626_backdrop_scale_1280xauto.jpg)
 
 ### Code APET
 ### Numéro de Police d'assurance
