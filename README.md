@@ -59,3 +59,5 @@ La notion de tiers est contractuelle: les parties peuvent librement la définir.
 Pour les professionnels de santé, consiste à appliquer des tarifs supérieurs aux tarifs conventionnés, établis par la Sécurité sociale et servant de référence pour la tarification des actes médicaux.
 ![img2](https://fr.web.img4.acsta.net/medias/nmedia/18/83/27/30/19790718.jpg)
 
+
+### Porteur de risque
