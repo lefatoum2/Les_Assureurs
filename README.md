@@ -61,3 +61,7 @@ Pour les professionnels de santé, consiste à appliquer des tarifs supérieurs 
 
 
 ### Porteur de risque
+
+### Certification des hébergeurs de données de santé
+
+![img1](https://media.gqmagazine.fr/photos/613b2b1750dd2d5cc5ab3281/master/pass/50555803)
