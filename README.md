@@ -73,3 +73,8 @@ https://esante.gouv.fr/labels-certifications/hds/certification-des-hebergeurs-de
 Le benchmarking est une technique de marketing créée au début des années 1980 par la société Xerox, et qui est aujourd’hui très répandue dans le monde de l’entreprise.
 
 C’est une méthode qui permet d’améliorer sa stratégie et de rester compétitif. Faire un benchmark consiste (en passant par un cabinet de conseil)à étudier, analyser et comparer les pratiques utilisées par d’autres entreprises sans le but d’identifier des innovations et des processus adaptables à son entreprise, une sorte de pêche aux bonnes idées.
+
+### PEP 
+Le Plan d'Epargne Populaire (PEP), à ne pas confondre avec le PERP : Plan d'Epargne Retraite Populaire, constitue un placement de long terme qui fructifie en franchise d'impôt et dont l'objectif était de permettre à son souscripteur de compléter sa retraite grâce à une épargne qui lui sera restituée sous forme de capital ou de rente viagère.
+
+
