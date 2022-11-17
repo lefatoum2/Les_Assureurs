@@ -78,3 +78,8 @@ C’est une méthode qui permet d’améliorer sa stratégie et de rester compé
 Le Plan d'Epargne Populaire (PEP), à ne pas confondre avec le PERP : Plan d'Epargne Retraite Populaire, constitue un placement de long terme qui fructifie en franchise d'impôt et dont l'objectif était de permettre à son souscripteur de compléter sa retraite grâce à une épargne qui lui sera restituée sous forme de capital ou de rente viagère.
 
 
+### La prévoyance
+
+La prévoyance consiste à couvrir la perte de revenus intervenant lors d’aléas de la vie liés à une personne. Ces aléas peuvent intervenir à titre personnel ou 
+professionnel.
+
