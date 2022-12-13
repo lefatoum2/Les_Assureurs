@@ -83,3 +83,7 @@ Le Plan d'Epargne Populaire (PEP), à ne pas confondre avec le PERP : Plan d'Epa
 La prévoyance consiste à couvrir la perte de revenus intervenant lors d’aléas de la vie liés à une personne. Ces aléas peuvent intervenir à titre personnel ou 
 professionnel.
 
+
+###  La rétrocession
+
+La rétrocession évoque l'idée de remboursement ou de reversement. Une commission de rétrocession est donc une partie d'une commission, qu'un intermédiaire va verser à un tiers, sur sa propre commission. 
