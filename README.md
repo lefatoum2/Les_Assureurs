@@ -91,3 +91,6 @@ La rétrocession évoque l'idée de remboursement ou de reversement. Une commiss
 ### Noémie 
 
 ![img2](https://static1.purepeople.com/articles/0/16/58/80/@/1945631-claude-makelele-et-noemie-lenoir-624x600-3.jpg)
+
+NOEMIE est une norme informatique dite Norme Ouverte d’Echange entre la Maladie et les Intervenants Extérieurs. Elle accélère les échanges de données avec les caisses d’assurance maladie.
+Grâce à NOEMIE, les assurés sociaux peuvent être remboursés par leur mutuelle ou complémentaire santé sans avoir à envoyer leurs décomptes Sécurité sociale.
