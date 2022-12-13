@@ -87,3 +87,7 @@ professionnel.
 ###  La rétrocession
 
 La rétrocession évoque l'idée de remboursement ou de reversement. Une commission de rétrocession est donc une partie d'une commission, qu'un intermédiaire va verser à un tiers, sur sa propre commission. 
+
+### Noémie 
+
+![img2](https://static1.purepeople.com/articles/0/16/58/80/@/1945631-claude-makelele-et-noemie-lenoir-624x600-3.jpg)
