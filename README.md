@@ -93,3 +93,6 @@ La rétrocession évoque l'idée de remboursement ou de reversement. Une commiss
 
 NOEMIE est une norme informatique dite Norme Ouverte d’Echange entre la Maladie et les Intervenants Extérieurs. Elle accélère les échanges de données avec les caisses d’assurance maladie.
 Grâce à NOEMIE, les assurés sociaux peuvent être remboursés par leur mutuelle ou complémentaire santé sans avoir à envoyer leurs décomptes Sécurité sociale.
+
+### Les produits en assurance 
+https://www.campussupworld.com/blog/principaux-produits-assurances
