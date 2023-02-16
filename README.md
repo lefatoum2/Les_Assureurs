@@ -96,3 +96,5 @@ Grâce à NOEMIE, les assurés sociaux peuvent être remboursés par leur mutuel
 
 ### Les produits en assurance 
 https://www.campussupworld.com/blog/principaux-produits-assurances
+
+### La ventilation des cotisations
